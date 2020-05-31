@@ -4,9 +4,11 @@ My keyboards keymaps for [QMK](https://config.qmk.fm/). This is a dotfiles equiv
 
 ## KBD67
 
-- KBDFans/KBD68/MKII_Soldered
+QMK - KBDFans/KBD68/MKII_Soldered
 
 ## Vespa.CR
+
+VIA
 
 # Credit
 
