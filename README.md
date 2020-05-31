@@ -1,6 +1,6 @@
 # keyboards
 
-My keyboards keymaps for [QMK](https://config.qmk.fm/). This is a dotfiles equivalent for keyboards.
+My keyboards keymaps. This is a dotfiles equivalent for keyboards.
 
 ## KBD67
 
@@ -12,4 +12,6 @@ VIA
 
 # Credit
 
-![](https://qmk.fm/assets/images/badge-light.svg)
+[![](https://qmk.fm/assets/images/badge-light.svg)](https://config.qmk.fm/)
+
+[VIA](https://caniusevia.com/)
