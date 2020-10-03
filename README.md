@@ -6,9 +6,9 @@ My keyboards keymaps. This is a dotfiles equivalent for keyboards.
 
 QMK - KBDFans/KBD68/MKII_Soldered
 
-## Vespa.CR
+# Deprecated
 
-VIA
+## Vespa.CR
 
 # Credit
 
