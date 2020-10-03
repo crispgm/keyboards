@@ -2,15 +2,15 @@
 
 My keyboards keymaps. This is a dotfiles equivalent for keyboards.
 
-## KBD67
+## Active
 
-QMK - KBDFans/KBD68/MKII_Soldered
+- KBD67 MKII soldered
 
-# Deprecated
+## Deprecated
 
-## Vespa.CR
+- ~~Vespa.CR~~
 
-# Credit
+## Credit
 
 [![](https://qmk.fm/assets/images/badge-light.svg)](https://config.qmk.fm/)
 
