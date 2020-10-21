@@ -12,6 +12,5 @@ My keyboards keymaps. This is a dotfiles equivalent for keyboards.
 
 ## Credit
 
-[![](https://qmk.fm/assets/images/badge-light.svg)](https://config.qmk.fm/)
-
-[VIA](https://caniusevia.com/)
+- [QMK](https://config.qmk.fm/)
+- [VIA](https://caniusevia.com/)
